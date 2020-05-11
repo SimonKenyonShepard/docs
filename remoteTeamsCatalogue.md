@@ -18,8 +18,8 @@ Note : Most articles seem to have forgotten that remote working also includes ne
 	* with local satellite workers
 	* with distant satellite workers
 	* with off-shore/near-shore support teams
-		  * split horizontally by discipline
-		  * using a ‘two-in-a-box’ model
+	  * split horizontally by discipline
+	  * using a ‘two-in-a-box’ model
 	* with off-shore/near-shore delivery teams split vertically by feature or domain
 * Remote outsourced teams
 * Remote first synchronous teams
