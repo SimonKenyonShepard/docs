@@ -142,3 +142,23 @@ This model is generally known as the solution to the horizontal model mentioned 
 * Fiscal & emotional cost of PO/stakeholder regularly flying out to meet remote delivery team
 * Offshore team churn can be higher than onsite
 * Challenge to propagate company culture to remote locations
+
+### Remote outsourced teams
+
+So this is the joker of the pack. Does it really belong here? Maybe not, but there are some interesting features of Remote fully outsourced teams that are worth drawing attention too. In fact as remote teams get more and more common in organisations you may see them adopt some of the practices of remote fully outsourced teams. The things I'm talking about are around the practices and interfaces of remote outsourced teams. With other kinds of 'internal' remote teams, often the team will be subject to existing internal delivery processes, deployment processes, monitoring & alerting and maintanence practices that may not actually be loosely coupled to the code base. This results in those teams having the same constraits as internal teams and running at the same pace. With fully outsourced remote teams, often contractually or legally those kind of tight couplings and subtle control mechanisms are not allowed to specified, only the deliverable - leaving the outsourced team to innovate in ways of delivery as long as they provide the required artifact : code/container/library/api. The downside of course is that if you don't choose a good outsourced team, you may end up with terrible quality software.
+
+#### Pros
+
+* Hard artifact requirements - code/container/library/apis
+* Isolated outcome based delivery practices - free from organisational latency
+* Potential to use a test lab for new ideas which can then be folded back into regular teams
+
+#### Cons
+* Risk of bad quality deliveries 
+* Extra effort needed to verifiy that outsource partners are high quality
+
+### Remote first synchronous teams
+
+### Remote first asynchronous teams
+
+### Remote first async & sync teams
