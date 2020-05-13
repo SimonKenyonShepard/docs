@@ -31,7 +31,7 @@ Note : Most articles seem to have forgotten that remote working also includes ne
 
 ## What works and what doesn’t
 
-(###One-site-internal-colocated-teams)
+###(#One-site-internal-colocated-teams)
 
 This, I think, is the assumed to be the most effective pattern you would have experienced in the pre-COVID world. One site, one mission, one hierarchy all in the same melting pot. There is a lot to be said for this model of work. It most likely has the highest of all quality of communication bandwidth. The ability to exchange information with colleagues by walking to another room or floor to is probably the most efficient method. If knowledge work was just about getting features delivered this would be the king. Unfortunately knowledge work is not just about getting features delivered. It’s also about delivering the right features and this is where I think this model is potentially weaker than some of the others.
 
