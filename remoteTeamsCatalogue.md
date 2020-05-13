@@ -18,16 +18,16 @@ Note : Most articles seem to have forgotten that remote working also includes ne
 * [One site internal co-located teams](#One-site-internal-colocated-teams)
 * [Multi-site internal co-located teams](#Multi-site-internal-colocated-teams)
 * One/multi site distributed teams
-	* [with local satellite workers](#One/multi-site-distributed-teams-:-with-local-satellite-workers)
-	* [with distant satellite workers](#One/multi-site-distributed-teams-:-with-distant-satellite-workers)
+	* [with local satellite workers](#Onemulti-site-distributed-teams-:-with-local-satellite-workers)
+	* [with distant satellite workers](#Onemulti-site-distributed-teams-:-with-distant-satellite-workers)
 	* with off-shore/near-shore support teams
-	  * [split horizontally by discipline](#One/multi-site-distributed-teams-with-offshore/nearshore-support-teams-split-horizontally-by-discipline)
-	  * [using a ‘counterpart’ model](#One/multi-site-distributed-teams-with-offshore/nearshore-support-teams-using-a-counterpart-model)
-	* [with off-shore/near-shore delivery teams split vertically by feature or domain](#One/multi-site-distributed-teams-with-offshore/nearshore-delivery-teams-split-vertically-by-feature/domain)
+	  * [split horizontally by discipline](#Onemulti-site-distributed-teams-with-offshorenearshore-support-teams-split-horizontally-by-discipline)
+	  * [using a ‘counterpart’ model](#Onemulti-site-distributed-teams-with-offshorenearshore-support-teams-using-a-counterpart-model)
+	* [with off-shore/near-shore delivery teams split vertically by feature or domain](#Onemulti-site-distributed-teams-with-offshorenearshore-delivery-teams-split-vertically-by-featuredomain)
 * [Remote outsourced teams](#Remote-outsourced-teams) 
 * [Remote-first internal synchronous teams](#Internal-remote-first-synchronous-teams) 
 * [Remote-first internal asyncronous teams](#Internal-remote-first-asynchronous-teams)
-* [Remote first internal async & sync teams](#Internal-remote-first-async-&-sync-teams)
+* [Remote first internal async & sync teams](#Internal-remote-first-async--sync-teams)
 
 ## What works and what doesn’t
 
