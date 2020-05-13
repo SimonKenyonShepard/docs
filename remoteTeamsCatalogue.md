@@ -73,7 +73,7 @@ In this model employees will spend between 60-90% of their time working remotely
 #### Cons
 * Potentially ‘second class team members’ requiring extra overhead to keep ‘in-the-loop’
 
-###One/multi site distributed teams : with distant satellite workers
+### One/multi site distributed teams : with distant satellite workers
 
 Before COVID I saw this model being used more overall, as employees would often join companies from another country or continent and then when they decided to return the company would continue to employ them remotely rather than find a local replacement. The benefits for the company are potentially lower salary overheads and lower churn and loss of critical domain knowledge or skills and greater continuity. However, the ‘second class team member’ syndrome becomes even more pronounced here especially with different timezones. I tend to think this option is a panacea that has greater downsides in the long term unless it is used sparingly.
 
