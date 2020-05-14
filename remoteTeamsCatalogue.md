@@ -26,7 +26,7 @@ Note: Most articles seem to have forgotten that remote working also includes nea
     * [with off-shore/near-shore delivery teams split vertically by feature or domain](#Onemulti-site-distributed-teams-with-offshorenearshore-delivery-teams-split-vertically-by-featuredomain)
 * [Remote outsourced teams](#Remote-outsourced-teams) 
 * [Remote-first internal synchronous teams](#Internal-remote-first-synchronous-teams) 
-* [Remote-first internal asyncronous teams](#Internal-remote-first-asynchronous-teams)
+* [Remote-first internal asynchronous teams](#Internal-remote-first-asynchronous-teams)
 * [Remote first internal async & sync teams](#Internal-remote-first-async--sync-teams)
 
 ## What works and what doesn’t
