@@ -1,4 +1,4 @@
-# The nuances of onsite, offshore & remote teams
+# Some nuances of onsite, offshore & remote teams
 
 In the wake of COVID-19, there’s been a huge focus on remote working best practices. I imagine there are teams out there to whom remote work is a brand new world and as a consultant, I can guess the types of things they are struggling with and googling for solutions on.
 
@@ -9,9 +9,9 @@ Except like having agility, remote work is not easy and more importantly there i
 What works for a team that’s been remote from day one may be super hard to adopt into a ‘suddenly-remote’ team and vice versa. There are many patterns that are suitable in different contexts, and some combinations of those patterns work well and some work less well.
 
 So far, I have seen a lot of articles that lack decent concrete, real world experiences of remote teams so their nuances, at best they are confusing and at worst the conclusions tend to be somewhat generic and unhelpful. 
-This is why I have decided to note down, my rather opinionated collection of observations of the patterns of remote working I have seen over my 17 year career in tech.
+This is why I have decided to note down, my opinionated collection of observations of the patterns of remote working I have seen over the last 17 years.
 
-Note : Most articles seem to have forgotten that remote working also includes near-shored, off-shored, and out-sourced teams who have been doing this for literally decades. I have decided to include them as they are as much a part of remote culture as anyone else and they have some helpful lessons to learn. 
+Note : Most articles seem to have forgotten that remote working also includes near-shored, off-shored, and out-sourced teams who have been doing remote work for literally decades. I have decided to include them as they are as much a part of remote culture as anyone else and they have some helpful lessons to learn. 
 
 ## Types of team I have seen
 
@@ -33,7 +33,7 @@ Note : Most articles seem to have forgotten that remote working also includes ne
 
 ### One site internal colocated teams
 
-This, I think, is the assumed to be the most effective pattern you would have experienced in the pre-COVID world. One site, one mission, one hierarchy all in the same melting pot. There is a lot to be said for this model of work. It most likely has the highest of all quality of communication bandwidth. The ability to exchange information with colleagues by walking to another room or floor to is probably the most efficient method. If knowledge work was just about getting features delivered this would be the king. Unfortunately knowledge work is not just about getting features delivered. It’s also about delivering the right features and this is where I think this model is potentially weaker than some of the others.
+This, I think, is the assumed to be the most effective pattern you would have experienced in the pre-COVID world. One site, one mission, one hierarchy all in the same melting pot. There is a lot to be said for this model of work. It most likely has the highest quality of all of communication-bandwidth. The ability to exchange information with colleagues by walking to another room or floor with no-lag facial expression and body language feedback to is probably the most efficient method. If company knowledge work was just about getting features delivered this would be the king. Unfortunately knowledge work is not just about getting features delivered. It’s also about delivering the right features and this is where I think this model is potentially weaker than some of the others.
 
 #### Pros
 * Easy access to f2f information - highest quality communication channel
@@ -43,7 +43,7 @@ This, I think, is the assumed to be the most effective pattern you would have ex
 #### Cons
 * More susceptible to Group think
 * Tendency to insular culture which limits workforce diversity
-* Often loud & hard to concentrate environment
+* Often loud & hard to establish 'deep work'/concentrated environment
 
 ### Multi site internal colocated teams
 
@@ -67,15 +67,15 @@ In this model employees will spend between 60-90% of their time working remotely
 
 #### Pros
 * Higher quality of life for employees
-* Marginally reduced salary costs
+* Potentially reduced salary costs
 * Reduced commuter traffic
 
 #### Cons
-* Potentially ‘second class team members’ requiring extra overhead to keep ‘in-the-loop’
+* Can create ‘second class team members’ requiring extra overhead to keep ‘in-the-loop’
 
 ### One/multi site distributed teams : with distant satellite workers
 
-Before COVID I saw this model being used more overall, as employees would often join companies from another country or continent and then when they decided to return the company would continue to employ them remotely rather than find a local replacement. The benefits for the company are potentially lower salary overheads and lower churn and loss of critical domain knowledge or skills and greater continuity. However, the ‘second class team member’ syndrome becomes even more pronounced here especially with different timezones. I tend to think this option is a panacea that has greater downsides in the long term unless it is used sparingly.
+Before COVID I saw this model being used more overall, as employees would often join companies locally onsite from another country or continent and then when they decided to return the company would continue to employ them remotely rather than find a local replacement. The benefits for the company are potentially lower salary overheads and lower churn and loss of critical domain knowledge or skills and greater continuity. However, the ‘second class team member’ syndrome becomes even more pronounced here especially with different timezones. I tend to think this option is a panacea that has greater downsides in the long term unless it is used sparingly.
 
 #### Pros
 * Employees from other countries and live remotely with family in own culture
@@ -94,8 +94,8 @@ Before COVID I saw this model being used more overall, as employees would often 
 This model has a bad reputation, and maybe rightly so. In this set-up a cross-functional team may be split up so one part of the team is onsite and the other off-shore for example : the ‘creative’ part of the team is on-site in the HQ and the developers are off-shore in another delivery centre. 
 The teams are often split across lines such as creativity/strategy/project management/front-end development/backend development/devOps with different groups tending to be bundled in locations like creativity/strategy/project management/front-end development at HQ and backend development/devOps off-shore. 
 Honestly, I’ve mostly never seen this work well. 
-With quite a lot of effort up-front to bring the whole team together to bond at the start of the project I’ve seen it functional but it takes a lot of effort and a lot of waste in terms of handovers. One of the few positives of this method, I have seen instances where the ‘noise’ from the parent organisation was so intrusive to development, that having a sheltered the off-shore team gave them room to get stuff done, but at best this is failure demand and solving the main problem would be a better solution.
-Overall it’s much easier to take a bonded team and split them geographically by discipline than it is to take a number of disciplines who have never met, might have different cultures and try and get them to bond remotely.
+With quite a lot of effort up-front to bring the whole team together to bond at the start of the project I’ve seen it functional but it takes a lot of effort and a lot of waste in terms of handovers. In one of the few positives of this method, I have seen instances where the ‘noise’ from the parent organisation was so intrusive to development, that having a sheltered the off-shore team gave them room to get stuff done, but at best this is failure demand and solving the main problem would be a better solution.
+One learning from this setup - it’s much easier to take a bonded team and split them geographically by discipline than it is to take a number of disciplines who have never met, might have different cultures and try and get them to bond remotely.
 
 #### Pros
 * Can be a useful for teams if there is a lot of noise/thrashing/variability/chaos in HQ that prevents people getting things done.
@@ -125,7 +125,7 @@ Also the number of times I’ve seen automated testing pushed to the off-shore t
 * Counterparts end up as secretaries
 * Counterparts get a really bad experience
 * It can lead to bad practices where on-site team members attempt to off-load parts of work they don’t enjoy
-* If work can not easily be separated then arbitrary boundaries will be created which will actually make things take longer
+* If work can not easily be separated then arbitrary boundaries will be created which will actually make things take longer//conways law
 * Remote workers often have nothing to do
 
 
@@ -148,12 +148,13 @@ This model is generally known as the solution to the horizontal model mentioned 
 
 ### Remote outsourced teams
 
-So this is the joker of the pack. Does it really belong here? Maybe not, but there are some interesting features of Remote fully outsourced teams that are worth drawing attention too. In fact as remote teams get more and more common in organisations you may see them adopt some of the practices of remote fully outsourced teams. The things I'm talking about are around the practices and interfaces of remote outsourced teams. With other kinds of 'internal' remote teams, often the team will be subject to existing internal delivery processes, deployment processes, monitoring & alerting and maintanence practices that may not actually be loosely coupled to the code base. This results in those teams having the same constraits as internal teams and running at the same pace. With fully outsourced remote teams, often contractually or legally those kind of tight couplings and subtle control mechanisms are not allowed to specified, only the deliverable - leaving the outsourced team to innovate in ways of delivery as long as they provide the required artifact : code/container/library/api. The downside of course is that if you don't choose a good outsourced team, you may end up with terrible quality software.
+So this is the joker of the pack. Does it really belong here? Maybe not, but there are some interesting features of Remote fully outsourced teams that are worth drawing attention too. In fact as remote teams get more and more common in organisations you may see them adopt some of the practices of remote fully outsourced teams. The things I'm talking about are around the practices and interfaces of remote outsourced teams. With other kinds of 'internal' remote teams, often the team will be subject to existing internal delivery processes, deployment processes, monitoring & alerting and maintanence practices that may not actually be loosely coupled to the code base. This results in those teams having the same constraits as internal teams and running at the same pace. With fully outsourced remote teams, often contractually or legally those kind of tight couplings and subtle control mechanisms are not allowed to specified, only the deliverable - leaving the outsourced team to innovate in ways of delivery as long as they provide the required artifact or interface : code/container/library/api. The downside of course is that if you don't choose a good outsourced team, you may end up with terrible quality output.
 
 #### Pros
 * Hard artifact requirements - code/container/library/apis
 * Isolated outcome based delivery practices - free from organisational latency
 * Potential to use a test lab for new ideas which can then be folded back into regular teams
+* Teams in different timezones mean that you can orchestrate 24hrs support by having on-call teams in different locations rotate thoughout the day
 
 #### Cons
 * Risk of bad quality deliveries 
@@ -161,10 +162,9 @@ So this is the joker of the pack. Does it really belong here? Maybe not, but the
 
 ### Internal remote first synchronous teams
 
-So with remote first teams there are two main operating workflows that start to emerge, synchronous and asynchronous. With synchronous teams, although the team is physically separated, they work and communicate in a synchronous way. They start and end the day at roughly the same times, take breaks at the same times and as the work flows round the team, they pass it to each other in a way where they are foccused on getting the work through the queues and out the other end. Most importantly they work as a team and wait for things to be finished before starting more work. The benefits of this is that we don't accidently get lots of work-in-progress and that a lot of the things that we know create good flow in co-located teams can be adopted virtually, things like remote pairing, remote stand-ups, plannings, demo's and retros can all be done together as a team using remote tools like Miro.
+So with remote first teams there are two main operating workflows that start to emerge, synchronous and asynchronous. With synchronous teams, although the team is physically separated, they work and communicate in a synchronous way. They start and end the day at roughly the same times, take breaks at the same times and as the work flows round the team, they pass it to each other in a way where they are foccused on getting the work through the queues and out the other end. Most importantly they work as a team and wait for things to be finished before starting more work. The benefits of this is that they don't accidently get lots of work-in-progress and that a lot of the things that we know create good flow in co-located teams can be adopted virtually, things like remote pairing, remote stand-ups, plannings, demo's and retros can all be done together as a team using remote tools like Miro.
 
 #### Pros
-
 * Less accidental WIP & more focussed work finished
 * Team can take advantage of practices like remote pairing & online meetings
 * Members feels more connected and bond better as a team 
@@ -176,7 +176,7 @@ So with remote first teams there are two main operating workflows that start to 
 
 ### Internal remote first asynchronous teams
 
-At the opposite end of the spectum of remote teams you see a remote first aynchronous team. This type of team operates in a very parrallel way from each other, interfacing and syncing only when neccesary and being as autonomous as possible. Comminication happens asynchronously using message busses like slack and email are used heavily to deliver and recieve messages whenever team members come online.
+At the opposite end of the spectum of remote teams you see a remote first aynchronous team. This type of team operates in a very parrallel way from each other, interfacing and syncing only when neccesary and being as autonomous as possible. Comminication happens asynchronously using message busses like slack and email are used heavily to deliver and recieve messages whenever team members come online. Often team members are in such different timezones that when one of them stops work, another will come online, in principle this works if everyone had done the right thing. In practice however I've seen people starting work and realising very early that they need critical information from someone who is now offline and having to wait a full cycle before being able to resolve blockers. 
 
 #### Pros
 
@@ -194,14 +194,19 @@ At the opposite end of the spectum of remote teams you see a remote first aynchr
 
 ### Internal remote first async & sync teams
 
-This is where most remote-first teams find themselves, with a mixture of both async & sync communications and practices. This is probably the best option, trying to get the best of both worlds. What's super important in this scenario is that a team charter is created to make explicit the different async and sync workflows and communications in order to avoid some of the downsides of parrallel work. All in all if it's managed and behaviours are explicit then this is probably the most powerful remote model, if badly managed with opaque norms then this model also descendings into difficulties.
+This is where most remote-first teams find themselves, with a mixture of both async & sync communications and practices. A good example of an async & sync teams is where a team decides to work synchronously in the mornings and say pair program for 4 hours after stand-up but then split up in the afternoon to conduct meetings or independent research or spikes. This is probably the best option, trying to get the best of both worlds. What's super important in this scenario is that a team charter is created to make explicit the different async and sync workflows and communications in order to avoid some of the downsides of parrallel work. All in all if it's managed and behaviours are explicit then this is probably the most powerful remote model, if badly managed with opaque norms then this model also descendings into difficulties. For tips on how to avoid this becoming difficult, be sure to check out the [EE remote working playbook](https://remote-working.playbook.ee/) where many of the solutions to these common problems are discussed.
 
 #### Pros
 
-
-
+* Teams can make space for team members with variable schedules to contribute
+* Less accidental WIP & more focussed work finished
+* Members feels more connected and bond better as a team
 
 #### Cons
+
+* Greater overhead in terms of establishing discipline and keeping to norms agreed in a team charter
+* Requires team to learn upskill in things like remote-paring & meeting culture
+
 
 
 
